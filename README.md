@@ -1,6 +1,6 @@
 This is a Personal AI legal Assistant. 
 
-Multi AI agent system capable of understanding legal issues, classifying them, conducting legal research such as identifying relevant legal sections and precedent cases, and even drafting legal documents in an automated worflow.
+Multi AI agent system capable of understanding legal issues, classifying them, conducting legal research such as identifying relevant legal sections and precedent cases, and even drafting legal documents in an automated workflow.
 
 Streamlit user interface where users can input their legal issue, trigger the approved AI system and receive a well structured legal draft and response
 
